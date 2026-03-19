@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="yolov5.utils.torch_utils.utils" />
+          <option value="hydra" />
+          <option value="yolo.utils.DEFAULT_CONFIG" />
+          <option value="ultralytics.yolo.utils.DEFAULT_CONFIG" />
+          <option value="main.TTS" />
+          <option value="serial.serialutil" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
